@@ -1,0 +1,6 @@
+{
+  "require": {
+    "php": "^7.2",
+    "virgil/crypto": "5.1.0"
+  }
+}
