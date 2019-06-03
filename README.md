@@ -1,1 +1,1 @@
-# recovery-snippet
+# PureKit Recovery Snippet
